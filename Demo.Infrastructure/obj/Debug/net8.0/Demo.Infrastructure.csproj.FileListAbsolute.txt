@@ -1,0 +1,17 @@
+E:\Repos\Demo.APIs\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.deps.json
+E:\Repos\Demo.APIs\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.runtimeconfig.json
+E:\Repos\Demo.APIs\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.dll
+E:\Repos\Demo.APIs\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.pdb
+E:\Repos\Demo.APIs\Demo.Infrastructure\bin\Debug\net8.0\Demo.Domain.dll
+E:\Repos\Demo.APIs\Demo.Infrastructure\bin\Debug\net8.0\Demo.Domain.pdb
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.AssemblyInfo.cs
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Inf.DA525600.Up2Date
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.dll
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\refint\Demo.Infrastructure.dll
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.pdb
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.genruntimeconfig.cache
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\ref\Demo.Infrastructure.dll

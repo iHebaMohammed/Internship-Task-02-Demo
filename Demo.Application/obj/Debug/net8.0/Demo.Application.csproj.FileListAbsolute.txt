@@ -1,0 +1,17 @@
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Application.deps.json
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Application.dll
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Application.pdb
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Domain.dll
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Infrastructure.dll
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Infrastructure.pdb
+E:\Repos\Demo.APIs\Demo.Application\bin\Debug\net8.0\Demo.Domain.pdb
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.AssemblyReference.cache
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfoInputs.cache
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfo.cs
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.CoreCompileInputs.cache
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.App.371CD7EF.Up2Date
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.dll
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\refint\Demo.Application.dll
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\Demo.Application.pdb
+E:\Repos\Demo.APIs\Demo.Application\obj\Debug\net8.0\ref\Demo.Application.dll

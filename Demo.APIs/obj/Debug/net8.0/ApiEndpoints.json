@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "Demo.APIs.Controllers.KpiController",
+    "Method": "DeleteKpi",
+    "RelativePath": "api/Kpi/DeleteKpi",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Demo.Application.Features.Kpi.Command.DeleteKpiCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.KpiController",
+    "Method": "GetAll",
+    "RelativePath": "api/Kpi/GetAllKpis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.KpiController",
+    "Method": "GetById",
+    "RelativePath": "api/Kpi/GetKpiById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.KpiController",
+    "Method": "AddKpi",
+    "RelativePath": "api/Kpi/InsertKpi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Demo.Application.Features.Kpi.Command.InsertKpiCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.KpiController",
+    "Method": "UpdateKpi",
+    "RelativePath": "api/Kpi/UpdateKpi",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Demo.Application.Features.Kpi.Command.UpdateKpiCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.LocationController",
+    "Method": "DeleteLocation",
+    "RelativePath": "api/Location/DeleteLocation",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Demo.Application.Features.Location.Command.DeleteLocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.LocationController",
+    "Method": "GetAllLocations",
+    "RelativePath": "api/Location/GetAllLocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.LocationController",
+    "Method": "GetLocationById",
+    "RelativePath": "api/Location/GetLocationById{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.LocationController",
+    "Method": "InsertLocation",
+    "RelativePath": "api/Location/InsertLocation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Demo.Application.Features.Location.Command.InsertLocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Demo.APIs.Controllers.LocationController",
+    "Method": "UpdateLocation",
+    "RelativePath": "api/Location/UpdateLocation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Demo.Application.Features.Location.Command.UpdateLocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
