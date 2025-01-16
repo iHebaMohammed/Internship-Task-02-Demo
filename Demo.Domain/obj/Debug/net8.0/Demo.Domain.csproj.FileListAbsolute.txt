@@ -9,3 +9,4 @@ E:\Repos\Demo.APIs\Demo.Domain\obj\Debug\net8.0\Demo.Domain.dll
 E:\Repos\Demo.APIs\Demo.Domain\obj\Debug\net8.0\refint\Demo.Domain.dll
 E:\Repos\Demo.APIs\Demo.Domain\obj\Debug\net8.0\Demo.Domain.pdb
 E:\Repos\Demo.APIs\Demo.Domain\obj\Debug\net8.0\ref\Demo.Domain.dll
+E:\Repos\Demo.APIs\Demo.Domain\obj\Debug\net8.0\Demo.Domain.sourcelink.json

@@ -15,3 +15,4 @@ E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\refint\Demo.Infrastructu
 E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.pdb
 E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.genruntimeconfig.cache
 E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\ref\Demo.Infrastructure.dll
+E:\Repos\Demo.APIs\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.sourcelink.json

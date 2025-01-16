@@ -48,6 +48,7 @@ namespace Demo.Application.Features.Location.Command
                     {
                         Id = location.Id,
                         Name = location.Name,
+                        
                     },
                 };
             }
