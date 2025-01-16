@@ -1,8 +1,8 @@
 [
   {
     "ContainingType": "Demo.APIs.Controllers.KpiController",
-    "Method": "DeleteKpi",
-    "RelativePath": "api/Kpi/DeleteKpi",
+    "Method": "Delete",
+    "RelativePath": "api/Kpi/Delete",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "Demo.APIs.Controllers.KpiController",
     "Method": "GetAll",
-    "RelativePath": "api/Kpi/GetAllKpis",
+    "RelativePath": "api/Kpi/GetAll",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -28,7 +28,7 @@
   {
     "ContainingType": "Demo.APIs.Controllers.KpiController",
     "Method": "GetById",
-    "RelativePath": "api/Kpi/GetKpiById/{id}",
+    "RelativePath": "api/Kpi/GetById/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -43,8 +43,8 @@
   },
   {
     "ContainingType": "Demo.APIs.Controllers.KpiController",
-    "Method": "AddKpi",
-    "RelativePath": "api/Kpi/InsertKpi",
+    "Method": "Add",
+    "RelativePath": "api/Kpi/Insert",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -59,8 +59,8 @@
   },
   {
     "ContainingType": "Demo.APIs.Controllers.KpiController",
-    "Method": "UpdateKpi",
-    "RelativePath": "api/Kpi/UpdateKpi",
+    "Method": "Update",
+    "RelativePath": "api/Kpi/Update",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -76,7 +76,7 @@
   {
     "ContainingType": "Demo.APIs.Controllers.LocationController",
     "Method": "DeleteLocation",
-    "RelativePath": "api/Location/DeleteLocation",
+    "RelativePath": "api/Location/Delete",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -91,8 +91,8 @@
   },
   {
     "ContainingType": "Demo.APIs.Controllers.LocationController",
-    "Method": "GetAllLocations",
-    "RelativePath": "api/Location/GetAllLocations",
+    "Method": "GetAll",
+    "RelativePath": "api/Location/GetAll",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -101,8 +101,8 @@
   },
   {
     "ContainingType": "Demo.APIs.Controllers.LocationController",
-    "Method": "GetLocationById",
-    "RelativePath": "api/Location/GetLocationById{id}",
+    "Method": "GetById",
+    "RelativePath": "api/Location/GetById{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -117,8 +117,8 @@
   },
   {
     "ContainingType": "Demo.APIs.Controllers.LocationController",
-    "Method": "InsertLocation",
-    "RelativePath": "api/Location/InsertLocation",
+    "Method": "Insert",
+    "RelativePath": "api/Location/Insert",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -133,8 +133,8 @@
   },
   {
     "ContainingType": "Demo.APIs.Controllers.LocationController",
-    "Method": "UpdateLocation",
-    "RelativePath": "api/Location/UpdateLocation",
+    "Method": "Update",
+    "RelativePath": "api/Location/Update",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,

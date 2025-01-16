@@ -17,8 +17,8 @@ namespace Demo.APIs.Controllers
             _mediator=mediator;
         }
 
-        [HttpGet("GetAllLocations")]
-        public async Task<ActionResult> GetAllLocations()
+        [HttpGet("GetAll")]
+        public async Task<ActionResult> GetAll()
         {
             var query = new GetAllLocationsQuery();
             var result = await _mediator.Send(query);
@@ -27,8 +27,8 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpGet("GetLocationById{id:guid}")]
-        public async Task<ActionResult> GetLocationById(Guid id)
+        [HttpGet("GetById{id:guid}")]
+        public async Task<ActionResult> GetById(Guid id)
         {
             var query = new GetLocationByIdQuery(id);
             var result = await _mediator.Send(query);
@@ -37,8 +37,8 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpPost("InsertLocation")]
-        public async Task<ActionResult> InsertLocation(InsertLocationCommand command)
+        [HttpPost("Insert")]
+        public async Task<ActionResult> Insert(InsertLocationCommand command)
         {
             var result = await _mediator.Send(command);
             if(result.IsSuccess)
@@ -46,8 +46,8 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpPut("UpdateLocation")]
-        public async Task<ActionResult> UpdateLocation(UpdateLocationCommand command)
+        [HttpPut("Update")]
+        public async Task<ActionResult> Update(UpdateLocationCommand command)
         {
             var result = await _mediator.Send(command);
             if(result.IsSuccess)
@@ -55,7 +55,7 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpDelete("DeleteLocation")]
+        [HttpDelete("Delete")]
         public async Task<ActionResult> DeleteLocation(DeleteLocationCommand command)
         {
             var result = await _mediator.Send(command);

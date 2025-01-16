@@ -17,7 +17,7 @@ namespace Demo.APIs.Controllers
             this._mediator=mediator;
         }
 
-        [HttpGet("GetAllKpis")]
+        [HttpGet("GetAll")]
         public async Task<ActionResult> GetAll()
         {
             var query = new GetAllKpisQuery();
@@ -27,7 +27,7 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpGet("GetKpiById/{id:guid}")]
+        [HttpGet("GetById/{id:guid}")]
         public async Task<ActionResult> GetById(Guid id) 
         {
             var query = new GetKpiByIdQuery(id);
@@ -37,8 +37,8 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpPost("InsertKpi")]
-        public async Task<ActionResult> AddKpi(InsertKpiCommand command)
+        [HttpPost("Insert")]
+        public async Task<ActionResult> Add(InsertKpiCommand command)
         {
             var result = await _mediator.Send(command);
             if(result.IsSuccess)
@@ -46,8 +46,8 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpPut("UpdateKpi")]
-        public async Task<ActionResult> UpdateKpi(UpdateKpiCommand command)
+        [HttpPut("Update")]
+        public async Task<ActionResult> Update(UpdateKpiCommand command)
         {
             var result = await _mediator.Send(command);
             if (result.IsSuccess)
@@ -55,8 +55,8 @@ namespace Demo.APIs.Controllers
             return BadRequest(result);
         }
 
-        [HttpDelete("DeleteKpi")]
-        public async Task<ActionResult> DeleteKpi(DeleteKpiCommand command)
+        [HttpDelete("Delete")]
+        public async Task<ActionResult> Delete(DeleteKpiCommand command)
         {
             var result = await _mediator.Send(command);
             if(result.IsSuccess)

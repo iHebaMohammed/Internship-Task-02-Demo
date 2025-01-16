@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Kpi/GetAllKpis": {
+    "/api/Kpi/GetAll": {
       "get": {
         "tags": [
           "Kpi"
@@ -17,7 +17,7 @@
         }
       }
     },
-    "/api/Kpi/GetKpiById/{id}": {
+    "/api/Kpi/GetById/{id}": {
       "get": {
         "tags": [
           "Kpi"
@@ -40,7 +40,7 @@
         }
       }
     },
-    "/api/Kpi/InsertKpi": {
+    "/api/Kpi/Insert": {
       "post": {
         "tags": [
           "Kpi"
@@ -71,7 +71,7 @@
         }
       }
     },
-    "/api/Kpi/UpdateKpi": {
+    "/api/Kpi/Update": {
       "put": {
         "tags": [
           "Kpi"
@@ -102,7 +102,7 @@
         }
       }
     },
-    "/api/Kpi/DeleteKpi": {
+    "/api/Kpi/Delete": {
       "delete": {
         "tags": [
           "Kpi"
@@ -133,7 +133,7 @@
         }
       }
     },
-    "/api/Location/GetAllLocations": {
+    "/api/Location/GetAll": {
       "get": {
         "tags": [
           "Location"
@@ -145,7 +145,7 @@
         }
       }
     },
-    "/api/Location/GetLocationById{id}": {
+    "/api/Location/GetById{id}": {
       "get": {
         "tags": [
           "Location"
@@ -168,7 +168,7 @@
         }
       }
     },
-    "/api/Location/InsertLocation": {
+    "/api/Location/Insert": {
       "post": {
         "tags": [
           "Location"
@@ -199,7 +199,7 @@
         }
       }
     },
-    "/api/Location/UpdateLocation": {
+    "/api/Location/Update": {
       "put": {
         "tags": [
           "Location"
@@ -230,7 +230,7 @@
         }
       }
     },
-    "/api/Location/DeleteLocation": {
+    "/api/Location/Delete": {
       "delete": {
         "tags": [
           "Location"

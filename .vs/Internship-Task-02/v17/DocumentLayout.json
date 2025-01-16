@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Repos\\Demo.APIs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2E94C52-5CD5-44D6-AC8A-87414EBA0A5A}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\demo.apis\\demo.apis\\controllers\\kpicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E94C52-5CD5-44D6-AC8A-87414EBA0A5A}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\controllers\\kpicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E94C52-5CD5-44D6-AC8A-87414EBA0A5A}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\demo.apis\\demo.apis\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E94C52-5CD5-44D6-AC8A-87414EBA0A5A}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C711209-BEC0-4503-9FC4-49D0D1BC0F97}|Demo.Application\\Demo.Application.csproj|e:\\repos\\demo.apis\\demo.application\\features\\project\\command\\updateprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C711209-BEC0-4503-9FC4-49D0D1BC0F97}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\features\\project\\command\\updateprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2E94C52-5CD5-44D6-AC8A-87414EBA0A5A}|Demo.APIs\\Demo.APIs.csproj|e:\\repos\\demo.apis\\demo.apis\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2E94C52-5CD5-44D6-AC8A-87414EBA0A5A}|Demo.APIs\\Demo.APIs.csproj|solutionrelative:demo.apis\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Repos\\Demo.APIs\\Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C711209-BEC0-4503-9FC4-49D0D1BC0F97}|Demo.Application\\Demo.Application.csproj|e:\\repos\\demo.apis\\demo.application\\features\\project\\ouery\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +57,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C711209-BEC0-4503-9FC4-49D0D1BC0F97}|Demo.Application\\Demo.Application.csproj|e:\\repos\\demo.apis\\demo.application\\features\\location\\query\\getalllocationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C711209-BEC0-4503-9FC4-49D0D1BC0F97}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\features\\location\\query\\getalllocationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C57D13-1E24-4143-8A82-7D8D59A7EF4B}|Demo.Infrastructure\\Demo.Infrastructure.csproj|e:\\repos\\demo.apis\\demo.infrastructure\\migrations\\20250116112927_change startdate type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C57D13-1E24-4143-8A82-7D8D59A7EF4B}|Demo.Infrastructure\\Demo.Infrastructure.csproj|solutionrelative:demo.infrastructure\\migrations\\20250116112927_change startdate type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,164 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 994,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250116112927_change startdate type.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
-              "RelativeDocumentMoniker": "Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
-              "RelativeToolTip": "Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:29:27.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "Demo.APIs\\Controllers\\ProjectController.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "Demo.APIs\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:44:17.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InsertProjectCommand.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:02:15.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Project.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Domain\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Entities\\Project.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Domain\\Entities\\Project.cs",
-              "RelativeToolTip": "Demo.Domain\\Entities\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:26:15.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InsertLocationCommand.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:02:19.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateProjectCommand.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwA8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:06:52.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetAllProjectsQuery.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwBgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:22:13.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DeleteProjectCommand.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:13:27.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteLocationCommand.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:13:30.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateLocationCommand.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:06:59.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetLocationByIdQuery.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:55:19.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetProjectByIdQuery.cs",
-              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
-              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
-              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
-              "RelativeToolTip": "Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAowD0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:50:23.179Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -246,7 +98,178 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KpiController.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\KpiController.cs",
+              "RelativeDocumentMoniker": "Demo.APIs\\Controllers\\KpiController.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\KpiController.cs",
+              "RelativeToolTip": "Demo.APIs\\Controllers\\KpiController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:39:38.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Demo.APIs\\Controllers\\LocationController.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Demo.APIs\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:38:29.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250116112927_change startdate type.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
+              "RelativeDocumentMoniker": "Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
+              "RelativeToolTip": "Demo.Infrastructure\\Migrations\\20250116112927_change startdate type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:29:27.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Demo.APIs\\Controllers\\ProjectController.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.APIs\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Demo.APIs\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:44:17.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertProjectCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Project\\Command\\InsertProjectCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:02:15.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Entities\\Project.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Demo.Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:26:15.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertLocationCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Location\\Command\\InsertLocationCommand.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:02:19.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProjectCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Project\\Command\\UpdateProjectCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:06:52.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllProjectsQuery.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Project\\Ouery\\GetAllProjectsQuery.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:22:13.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProjectCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Project\\Command\\DeleteProjectCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:13:27.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteLocationCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Location\\Command\\DeleteLocationCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:13:30.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateLocationCommand.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Location\\Command\\UpdateLocationCommand.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:06:59.075Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "GetLocationByIdQuery.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Location\\Query\\GetLocationByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:55:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProjectByIdQuery.cs",
+              "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
+              "ToolTip": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
+              "RelativeToolTip": "Demo.Application\\Features\\Project\\Ouery\\GetProjectByIdQuery.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:50:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "GetAllLocationsQuery.cs",
               "DocumentMoniker": "E:\\Repos\\Demo.APIs\\Demo.Application\\Features\\Location\\Query\\GetAllLocationsQuery.cs",
               "RelativeDocumentMoniker": "Demo.Application\\Features\\Location\\Query\\GetAllLocationsQuery.cs",
@@ -254,8 +277,7 @@
               "RelativeToolTip": "Demo.Application\\Features\\Location\\Query\\GetAllLocationsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:22:22.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:22:22.317Z"
             }
           ]
         },
